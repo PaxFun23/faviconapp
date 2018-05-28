@@ -1,28 +1,3 @@
 {
-    "data":[
-        {
-            "styleName":"style1",
-            "icons":[
-                {
-                    "letter":"A",
-                    "url":"s1A.jpg"
-                },{
-                    "letter":"B",
-                    "url":"s1B.jpg"
-                }
-            ]
-        },
-        {
-            "StyleName":"style2",
-            "icons":[
-                {
-                    "letter":"A",
-                    "url":"s1A.jpg"
-                },{
-                    "letter":"B",
-                    "url":"s1B.jpg"
-                }
-            ]
-        }  
-    ]
+    "bg1":[]
 }
